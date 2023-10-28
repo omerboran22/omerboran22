@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm a Web Developer! 👋
 
+My name is Ömer Can Boran and I'm passionate about web development. Currently, I'm learning ReactJS and Next.js, and my interest in these technologies continues to grow.
+
+## About Me
+
+- 🌐 [Personal Website](is comming)
+- 📧 Email: is coming
 <!--
-**omerboran22/omerboran22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🚀 [First Project](is comming)
+- 🌟 [Second Project](is comming)
+
 -->
+## Contact
+
+You can reach me through the following channels:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/omerboran22/)
