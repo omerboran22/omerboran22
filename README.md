@@ -1,4 +1,4 @@
-# Hello, I'm a Web Developer! 👋
+# Hello, I'm a Full Stack Developer! 👋
 
 My name is Ömer Can Boran and I'm passionate about web development. Currently, I'm learning ReactJS and Next.js, and my interest in these technologies continues to grow.
 
