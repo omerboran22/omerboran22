@@ -1,23 +1,23 @@
-## Merhaba, ben Ömer 👋
+## Hi, I'm Ömer 👋
 
-**Full-Stack Developer** — fikirden canlıya ürün çıkarıyorum.
+**Full-Stack Developer** — I take products from idea to production.
 
-Bir yazılım girişiminde son iki yılda 20'den fazla ürünün backend, web ve mobil tarafında çalıştım. 8.500+ commit. İşlerimin çoğu şirket içi sunucularda olduğu için kod burada değil, yeşil kareler o çalışmanın kaydı.
+Over the last two years, I've worked on the backend, web, and mobile sides of 20+ products at a software startup. 8,500+ commits. Most of my work lives on private company servers, so the code isn't here. The green squares are the record of that work.
 
-Yapay zeka araçlarıyla çalışarak ürünleri hızlı geliştiriyor, mimari kararları ve kod incelemesini kendim yönetiyorum.
+I work with AI tools to build products fast, while I manage architecture decisions and code review myself.
 
-### 🛠️ Teknolojiler
+### 🛠️ Tech
 
 **Backend:** Node.js · TypeScript · Python (Django)
 
 **Frontend:** React · Next.js
 
-**Mobil:** React Native
+**Mobile:** React Native
 
-**Veritabanı:** PostgreSQL · Redis
+**Data:** PostgreSQL · Redis
 
-**Diğer:** Docker · Git · REST API
+**Other:** Docker · Git · REST API
 
-### 📫 İletişim
+### 📫 Contact
 
 omerboran22@gmail.com
