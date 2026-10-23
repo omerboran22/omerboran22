@@ -1,21 +1,23 @@
-# Hello, I'm a Full Stack Developer! 👋
+## Merhaba, ben Ömer 👋
 
-My name is Ömer Can Boran and I'm passionate about web development. Currently, I'm learning ReactJS and Next.js, and my interest in these technologies continues to grow.
+**Full-Stack Developer** — fikirden canlıya ürün çıkarıyorum.
 
-## About Me
+Bir yazılım girişiminde son iki yılda 20'den fazla ürünün backend, web ve mobil tarafında çalıştım. 8.500+ commit. İşlerimin çoğu şirket içi sunucularda olduğu için kod burada değil, yeşil kareler o çalışmanın kaydı.
 
-- 🌐 Personal Website: (https://omerboran.dev/)
-- 📧 Email: is coming
-<!--
+Yapay zeka araçlarıyla çalışarak ürünleri hızlı geliştiriyor, mimari kararları ve kod incelemesini kendim yönetiyorum.
 
-## Projects
+### 🛠️ Teknolojiler
 
-- 🚀 [First Project](is comming)
-- 🌟 [Second Project](is comming)
+**Backend:** Node.js · TypeScript · Python (Django)
 
--->
-## Contact
+**Frontend:** React · Next.js
 
-You can reach me through the following channels:
+**Mobil:** React Native
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/omerboran22/)
+**Veritabanı:** PostgreSQL · Redis
+
+**Diğer:** Docker · Git · REST API
+
+### 📫 İletişim
+
+omerboran22@gmail.com
